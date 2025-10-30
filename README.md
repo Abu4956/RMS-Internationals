@@ -50,3 +50,14 @@ npm install
 
 # Start the development server
 npm start
+
+
+👨‍💻 Developer
+
+Abu Obaida
+📧 abuobaidakopaganj@gmail.com
+
+
+📄 License
+
+This project is licensed under the MIT License – feel free to use and modify it.
