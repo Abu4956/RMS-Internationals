@@ -51,12 +51,14 @@ npm install
 # Start the development server
 npm start
 ```
+---
 
 👨‍💻 Developer
 
 Abu Obaida
 📧 abuobaidakopaganj@gmail.com
 
+---
 
 📄 License
 
