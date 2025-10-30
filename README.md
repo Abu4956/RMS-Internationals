@@ -30,7 +30,7 @@ A fully responsive and dynamic website developed for **RMS Internationals**, a p
 - MongoDB  
 
 **Deployment:**  
-- AWS / Firebase  
+- Netlify
 
 ---
 
